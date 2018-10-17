@@ -1,0 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/rady-io/aspect/badge.svg)](https://coveralls.io/github/rady-io/aspect)
+[![Go Report Card](https://goreportcard.com/badge/github.com/rady-io/aspect)](https://goreportcard.com/report/github.com/rady-io/aspect)
+[![Build Status](https://travis-ci.org/rady-io/aspect.svg?branch=master)](https://travis-ci.org/rady-io/aspect)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rady-io/aspect/blob/master/LICENSE)
+[![Documentation](https://godoc.org/github.com/rady-io/aspect?status.svg)](https://godoc.org/github.com/rady-io/aspect)
